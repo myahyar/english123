@@ -1,2 +1,4 @@
 # git remote
-- ```git remote -v
+
+- ```git remote -v ```melihat status remote
+- ```git log```melihat commit 
