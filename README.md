@@ -1,1 +1,2 @@
-# petualang
+# git remote
+- ```git remote -v
